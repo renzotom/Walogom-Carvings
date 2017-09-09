@@ -6,5 +6,5 @@ We decided to create new original game, where you pick up some score points and 
 ## More informations you can find on the wiki (https://github.com/renzotom/Walogom-Carvings/wiki)
 ## Useful links:
 Wiki: https://github.com/renzotom/Walogom-Carvings/wiki
-Discord (here you can officialy join our team): https://discord.gg/U78H2KG
-Game Jams, where our game is: https://crowdforge.io/jams/virtus and https://crowdforge.io/jams/gdn
+Discord (here you can officialy join our team): https://discord.gg/ds3Czvz
+Or what to do list: https://trello.com/walogomcarvingsteam/
